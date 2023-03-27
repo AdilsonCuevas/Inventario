@@ -1,0 +1,24 @@
+.form-check-input {
+    position: relative;
+    height: 2em !important; 
+    width: 3.5em !important;
+    left: 8em;
+}
+
+.form-control {
+    height: 3em;
+}
+.form-select {
+    height: 3em; 
+}
+
+.card2 {
+    margin-top: -140px;
+    background: hsla(0, 0%, 85%, 0.5);
+    backdrop-filter: blur(50px);
+}
+
+.card {
+    text-align: center;
+    background-color: hsla(0, 0%, 85%, 0.5);
+}

@@ -1,0 +1,107 @@
+.avatares{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-left: 3em;
+}
+
+.avat {
+    border-radius: 50%;
+}
+
+.user {
+    margin-left: -600px;
+    font-family: "Homer Simpson UI";
+}
+
+.empresa {
+    font-family: "Segoe IU", sans-serif;
+}
+
+.logout {
+    margin-right: 80px;
+}
+
+.navbar {
+    background-color: rgb(86, 92, 86) !important;
+}
+
+.item {
+    list-style-type: none !important;
+    margin: 4px !important;
+    padding: 0 !important;
+    width: 300px !important;
+    height: 1000px;
+    background-color: rgb(87, 95, 87) !important;
+    text-align: center;
+}
+
+li a {
+    display: block !important;
+    color: #010 !important;
+    padding: 15px 0 20px 0px !important;
+    text-decoration: none !important;
+}
+
+/* Change the link color on hover */
+li a:hover {
+    background-color: #555 !important;
+    color: white !important;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(87, 99, 92);
+}
+
+.card {
+    width: 16rem;
+    border-radius: 2.25rem !important;
+    margin-left: 5px;
+}
+
+.sesiones {
+    background-color: #74887c;
+    margin-left: -656px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 30px;
+}
+
+.useres {
+    background-color: #758f7f;
+    margin-left: -656px;
+}
+body {
+    background-color: #a5bbad;
+}
+
+.registro {
+    margin-left: 780px;
+}
+
+.titulo {
+    margin-left: 240px;
+}
+
+.table {
+    text-align: center;
+}
+
+dialog::backdrop {
+    background: rgba(64, 92, 70, 0.9);
+  }
+
+.modalaction {
+    width: 573px;
+    height: 787px;
+    text-align: center;
+}
+
+.imagenes {
+    border-radius: 15%;
+}
+
+.card {
+    background-color: #bbc7c0;
+}
